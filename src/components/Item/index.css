@@ -1,0 +1,14 @@
+.item {
+  padding: 10px 0;
+  text-align: center;
+}
+.item div {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.item img {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
